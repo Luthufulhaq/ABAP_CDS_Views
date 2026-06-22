@@ -111,7 +111,7 @@ The application automatically generates a modern SAP Fiori UI using CDS annotati
 
 Displays all available flight records.
 
-![Main Screen](images/main-screen.png)
+![Main Screen](screenshots/main-screen.png)
 
 ---
 
@@ -125,7 +125,7 @@ Airline ID = JL
 
 Returns all Japan Airlines flight records.
 
-![Airline Filter](images/filter-airline.png)
+![Airline Filter](screenshots/airline-filter.png)
 
 ---
 
@@ -137,7 +137,7 @@ Example:
 
 Flight Date = 09-Jan-2027
 
-![Date Filter](images/filter-date.png)
+![Date Filter](screenshots/date-filter.png)
 
 ---
 
@@ -149,7 +149,7 @@ Example:
 
 Plane Type = A380-800
 
-![Plane Filter](images/filter-plane.png)
+![Plane Filter](screenshots/plane-filter.png)
 
 ---
 
